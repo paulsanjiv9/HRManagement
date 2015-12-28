@@ -7,6 +7,7 @@ using System.Text;
 
 namespace HelloWorldService
 {
+    //a few comments
     [DataContract]
     public class Name
     {
